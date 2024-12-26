@@ -1,8 +1,9 @@
 ETL Project Overview
+
 In this project, I implemented an ETL (Extract, Transform, Load) process to handle data from Kaggle, perform data transformation using Python and Pandas, and subsequently load the cleaned data into an SQL database. The final step involved using SQL queries to answer five business questions. The tech stack used for this project includes Python, SQL, and the Pandas library.
 
 What is ETL ?
-Extract, transform, and load (ETL) is the process of combining data from multiple sources into a large, central repository called a data warehouse. ETL uses a set of business rules to clean and organize raw data and prepare it for storage, data analytics, and machine learning (ML). You can address specific business intelligence needs through data analytics (such as predicting the outcome of business decisions, generating reports and dashboards, reducing operational inefficiency, and more)
+Extract, Transform, and Load (ETL) is the process of combining data from multiple sources into a large, central repository called a data warehouse. ETL uses a set of business rules to clean and organize raw data and prepare it for storage, data analytics, and machine learning (ML). You can address specific business intelligence needs through data analytics (such as predicting the outcome of business decisions, generating reports and dashboards, reducing operational inefficiency, and more)
 1. Extract
    
 Data Source:
